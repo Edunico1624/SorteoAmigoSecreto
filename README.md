@@ -2,7 +2,8 @@
 
 ## 📸 Vista previa
 
-![Vista previa del proyecto](https://github.com/tu-usuario/amigo-secreto/blob/main/assets/amigo-secreto.png?raw=true)
+![Vista previa del proyecto](assets/amigo-secreto.png)
+
 
 Aplicación web sencilla e interactiva para organizar un **sorteo de amigo secreto**.  
 Permite registrar amigos, listarlos y realizar un sorteo aleatorio en tiempo real.
